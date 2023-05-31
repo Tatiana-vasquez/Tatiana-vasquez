@@ -1,9 +1,9 @@
 ### Hi everyone! Welcome to my profile on Github 👋
 
-![](https://tatiana-vasquez.github.io/web-tati/)
+[My website](https://tatiana-vasquez.github.io/web-tati/)
 
 ## My portfolio
-[ My repository](https://tatiana-vasquez.github.io/my_portfolio-2.0/#page-top) Este es
+[ My portfolio](https://tatiana-vasquez.github.io/my_portfolio-2.0/#page-top) 
 
 <!--
 **Tatiana-vasquez/Tatiana-vasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
